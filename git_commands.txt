@@ -1,0 +1,29 @@
+
+git add .    #agrega todos los cambios
+git commit -m "mensaje del cambio"   #para agregar el mensaje de cambios
+git push     #enviar el cambio al repositorio
+
+git pull     #trae cambios de otros integrantes
+
+
+get specific commit
+---
+git reset --hard <commit-hash>
+
+http://148.215.3.83/becas/manutencion/resultados2016/Logon.asp
+https://jsfiddle.net/primitivorm/5z34r9Lw/ <- herramienta web para javascript/html/css3
+
+
+update tipo_dato set tipo='decimal(20,0)' where id =1;
+
+git push
+colors_des@hotmail.com
+manchitas123
+
+http://codepen.io/larrygeams/pen/feoDc
+http://codepen.io/tclerico/pen/hrlIm
+http://codepen.io/hamzadhamiya/pen/ciJDw
+http://codepen.io/schoenwaldnils/pen/GkLrv
+http://codepen.io/blindside85/pen/ClnIE
+
+https://elbauldelprogramador.com/programacion-android-interfaz-grafica/
